@@ -1,5 +1,6 @@
 attrs==19.3.0
 backcall==0.2.0
+bar-chart-race==0.1.0
 beautifulsoup4==4.9.1
 bleach==3.1.5
 brotlipy==0.7.0
